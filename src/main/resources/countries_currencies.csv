@@ -1,0 +1,16 @@
+Entity,Currency,AlphabeticCode,NumericCode,MinorUnit,WithdrawalDate
+AFN,Afghani,0.0,0.0
+EUR,Euro,0.8659549548,0.845494
+ALL,Lek,0.0,0.0,
+DZD,Algerian Dinar,0.0,0.0
+USD,US Dollar,1.02420,1.0
+ADA,Kwanza,0.0,0.0
+XCD, East Caribbean Dollar,0.0,0.0
+ARS, Argentine Peso,97.28951795639999,94.990742
+AMD,Armenian Dram,0.0,0.0
+AWG,Aruban Florian,0.0,0.0
+AUD, Australian Dollar,1.3634396208,1.331224
+AZN, Azerbijaijan Manat,0.0,0.0
+BSD, Bahamian Dollar,0.0,0.0
+BHD,Bahraini Dinar,0.0,0.0
+BDT,Taka,0.0,0.0
